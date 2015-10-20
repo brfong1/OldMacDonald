@@ -1,4 +1,4 @@
 class Farm 
 {     
-   //your code here
+   private Animal[] aBunchofAnimals = new Animal[3];
 }
