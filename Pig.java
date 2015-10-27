@@ -10,7 +10,7 @@ class Pig implements Animal
      public Pig()
      {
      	myType = "Pig";
-     	mySound = "heng heng";
+     	mySound = "oink";
      }
 
      public String getSound()

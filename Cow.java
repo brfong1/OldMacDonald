@@ -15,8 +15,6 @@ class Cow implements Animal
      	mySound = "meuh";
      }
 
-     public String getSound()
-      {return mySound;}
-     public String getType()
-      {return myType;} 
+     public String getSound(){return mySound;}
+     public String getType(){return myType;} 
 }
